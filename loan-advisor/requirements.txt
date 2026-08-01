@@ -1,0 +1,12 @@
+streamlit>=1.60
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+pillow
+fpdf2
+textblob
+openpyxl
+gTTS
+SpeechRecognition

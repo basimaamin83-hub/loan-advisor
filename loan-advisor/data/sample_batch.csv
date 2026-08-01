@@ -1,0 +1,4 @@
+loan_amnt,int_rate,annual_inc,dti,fico_score,emp_length,grade,home_ownership,purpose,term_months
+20000,12.0,60000,15,700,5,B,RENT,debt_consolidation,36
+15000,10.5,72000,12,740,8,A,MORTGAGE,car,36
+35000,18.0,45000,38,620,2,D,RENT,credit_card,60
